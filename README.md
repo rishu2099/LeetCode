@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishu2099/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/rishu2099/LeetCode/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu2099/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishu2099/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -17,4 +18,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishu2099/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/rishu2099/LeetCode/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/rishu2099/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
