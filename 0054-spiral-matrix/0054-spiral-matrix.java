@@ -1,31 +1,33 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        ArrayList<Integer> list = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
 
         int n = matrix.length;
         int m = matrix[0].length;
 
-        int sr = 0, er = n-1;
-        int sc = 0, ec = m-1;
-        
-        while(sr <= er && sc <= ec) {
+        int sr = 0, er = n - 1;
+        int sc = 0, ec = m - 1;
 
-            for(int i = sc; i <= ec; i++) {
+        while (sr <= er && sc <= ec) {
+
+            for (int i = sc; i <= ec; i++) {
                 list.add(matrix[sr][i]);
             }
 
-            for(int j = sr + 1; j <= er; j++) {
-                list.add(matrix[j][ec]);
+            for (int i = sr + 1; i <= er; i++) {
+                list.add(matrix[i][ec]);
             }
 
-            for(int k = ec - 1; k >= sc; k--) {
-                if(sr == er) break;
-                list.add(matrix[er][k]);
+            if (sr < er) {
+                for (int i = ec - 1; i >= sc; i--) {
+                    list.add(matrix[er][i]);
+                }
             }
 
-            for(int l = er - 1; l >= sr + 1; l--) {
-                if(sc == ec) break;
-                list.add(matrix[l][sc]);
+            if (sc < ec) {
+                for (int i = er - 1; i > sr; i--) {
+                    list.add(matrix[i][sc]);
+                }
             }
 
             sr++;
@@ -33,6 +35,7 @@ class Solution {
             sc++;
             ec--;
         }
+
         return list;
     }
 }
