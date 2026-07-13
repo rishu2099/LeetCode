@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rishu2099/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishu2099/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu2099/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rishu2099/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishu2099/LeetCode/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/rishu2099/LeetCode/tree/master/0506-relative-ranks) |
 ## Queue
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishu2099/LeetCode/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/rishu2099/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
