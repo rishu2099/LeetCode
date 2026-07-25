@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/rishu2099/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/rishu2099/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishu2099/LeetCode/tree/master/0268-missing-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/rishu2099/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishu2099/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rishu2099/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rishu2099/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/rishu2099/LeetCode/tree/master/0506-relative-ranks) |
+| [3536-maximum-product-of-two-digits](https://github.com/rishu2099/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
 |  |
 | ------- |
