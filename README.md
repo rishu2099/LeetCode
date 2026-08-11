@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rishu2099/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/rishu2099/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rishu2099/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/rishu2099/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rishu2099/LeetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/rishu2099/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/rishu2099/LeetCode/tree/master/0268-missing-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishu2099/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/rishu2099/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rishu2099/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishu2099/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishu2099/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rishu2099/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/rishu2099/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rishu2099/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishu2099/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishu2099/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishu2099/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/rishu2099/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rishu2099/LeetCode/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishu2099/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishu2099/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
