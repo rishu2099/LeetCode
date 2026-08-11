@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rishu2099/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/rishu2099/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rishu2099/LeetCode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/rishu2099/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rishu2099/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rishu2099/LeetCode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/rishu2099/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishu2099/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/rishu2099/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rishu2099/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishu2099/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rishu2099/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rishu2099/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/rishu2099/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishu2099/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishu2099/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -125,5 +128,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rishu2099/LeetCode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/rishu2099/LeetCode/tree/master/0455-assign-cookies) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rishu2099/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
