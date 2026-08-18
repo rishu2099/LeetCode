@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rishu2099/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/rishu2099/LeetCode/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/rishu2099/LeetCode/tree/master/0704-binary-search) |
+| [0733-flood-fill](https://github.com/rishu2099/LeetCode/tree/master/0733-flood-fill) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishu2099/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishu2099/LeetCode/tree/master/0054-spiral-matrix) |
+| [0733-flood-fill](https://github.com/rishu2099/LeetCode/tree/master/0733-flood-fill) |
 ## Simulation
 |  |
 | ------- |
@@ -148,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishu2099/LeetCode/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/rishu2099/LeetCode/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/rishu2099/LeetCode/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
