@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rishu2099/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rishu2099/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/rishu2099/LeetCode/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rishu2099/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rishu2099/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/rishu2099/LeetCode/tree/master/0733-flood-fill) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishu2099/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rishu2099/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/rishu2099/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishu2099/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rishu2099/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rishu2099/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
