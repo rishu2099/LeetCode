@@ -17,7 +17,7 @@ class Solution {
         for(int i = n-1; i > pivot; i--){
             if(nums[i] > nums[pivot]){
                 swap(nums, i, pivot);
-                return;
+                break;
             }
         }
         reverse(nums, pivot + 1, n - 1);
