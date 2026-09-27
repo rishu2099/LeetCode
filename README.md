@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/rishu2099/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/rishu2099/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishu2099/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/rishu2099/LeetCode/tree/master/0367-valid-perfect-square) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishu2099/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rishu2099/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rishu2099/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rishu2099/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rishu2099/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/rishu2099/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishu2099/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rishu2099/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
